@@ -1,0 +1,13 @@
+browser:
+  name: chrome
+  headless: false
+
+ui:
+  baseUrl: https://www.ebay.com/
+
+api:
+  baseUrl: https://api.coingecko.com
+
+timeout:
+  globalTimeout: 10
+
